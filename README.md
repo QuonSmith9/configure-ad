@@ -33,7 +33,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/f7mtfnc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here in order to start the lab I must first create a virtual machine, here it is Windows Server 2022 imaginer.
+Here in order to start the lab I must first create a virtual machine, here it is Windows Server 2022 imaginer. I also created another virtual machines called "Client-1" so i can connect it to the domain controller later in this lab.
 </p>
 <br />
 

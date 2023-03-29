@@ -23,7 +23,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Step 1- Creating virtual machine
-- Step 2
+- Step 2- Ping DC-1's IP address
 - Step 3
 - Step 4
 
@@ -38,10 +38,10 @@ Here in order to start the lab I must first create a virtual machine, here it is
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/u6W5FSw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As illstrauted above, im trying to ping my DC-1's IP address via my Client-1's operating system on command prompt. It timed out and I wasn's able to get any request by I am going to configure to see if I can eventually ping DC-1.
 </p>
 <br />
 

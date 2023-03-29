@@ -55,10 +55,10 @@ It started to ping DC-1's IP address now because I enabled two rule on DC-1 via 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qjNtZmt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here I am remote connecting into an account that was created by me from configuring a countless amount of domain users by allowing them to log in remotely to Client-1's virtual machine. Now essentially "bac.dap" is on the domain which allows "bac.dap" and all the other to sign on to Client-1's OS even if it's their first time on it.
 </p>
 <br />
 

@@ -26,7 +26,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Step 2- Ping DC-1's IP address
 - Step 3- Enabling imbound rules via DC-1
 - Step 4- Configuring users and allowing to logon to Client-1's OS
-- Step 5
+- Step 5- Restting a password
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -63,9 +63,9 @@ Here I am remote connecting into an account that was created by me from configur
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XO9ksrz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I purposely tried to lock out an account so I could practice and try to reset the password and unlock the account for the user in active directory.
 </p>
 <br />

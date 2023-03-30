@@ -25,7 +25,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Step 1- Creating virtual machine
 - Step 2- Ping DC-1's IP address
 - Step 3- Enabling imbound rules via DC-1
-- Step 4
+- Step 4- Configuring users and allowing to logon to Client-1's OS
 - Step 5
 
 <h2>Deployment and Configuration Steps</h2>
